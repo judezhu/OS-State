@@ -1,5 +1,3 @@
-Name:Huang Zhu
-Student #:15509094
 ------------------------
 
 Assignment: [OS lab1] OS state
